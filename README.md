@@ -39,7 +39,7 @@ Lack of efficient gesture detection system designed specifically for the differe
 
 
 ## :file_folder: Data Distribution
-The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/16ce6Hc4U5Qr6YBArcozoYom6TT5-7oSc?usp=sharing)
+
 
 This dataset consists of __17113 images__ belonging to 27 classes:
 *	__Training Set: 12845 images__<br />
